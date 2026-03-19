@@ -6,3 +6,6 @@ data/recept.csv
 data/raktar.csv
 data/vasarlasok.csv
 src/main.py
+git add .
+git commit -m "Alap projekt létrehozva"
+git push
